@@ -91,3 +91,8 @@ Script: [102-rating_shows.sql](./102-rating_shows.sql)
 - Lists all shows from hbtn_0d_tvshows_rate by their rating.
 
 ## Author
+
+👤 **Mershark Takyi**
+
+- GitHub: [@githubhandle](https://github.com/mershark)
+- LinkedIn: [Profile link](https://www.linkedin.com/in/mershark/)
