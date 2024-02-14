@@ -10,4 +10,14 @@ This folder contains introductory SQL scripts and exercises that cover basic con
 
 In this folder I did more exercises on more advanced SQL scripts and queries. These scripts build upon the foundational knowledge gained in the introductory module and cover topics such as advanced queries, table relationships, and database management tasks.
 
-If you have any questions, suggestions, or feedback, please feel free to reach out. Happy coding!
+
+## Author
+👤 **Mershark Takyi**
+
+- GitHub: [@githubhandle](https://github.com/mershark)
+- LinkedIn: [Profile link](https://www.linkedin.com/in/mershark/)
+  
+#### If you have any questions, suggestions, or feedback, please feel free to reach out. Happy coding!
+
+
+
