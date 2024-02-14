@@ -1,6 +1,6 @@
 ## ALX Full Stack Software Engineering Higher Level Programming Repository
 
-Welcome to my ALX Full Stack Software Engineering higher level programming repository! This repository contains exercises given to me through the ALX program, where I'm learning various aspects of software engineering.
+Welcome to my ALX Full Stack Software Engineering higher level programming repository! This repository contains exercises given to me through the ALX program, where I'm learning various aspects of full stack software engineering.
 
 ### [0x0D-SQL_introduction](https://github.com/mershark/alx-higher_level_programming/tree/main/0x0D-SQL_introduction)
 
